@@ -1,0 +1,14 @@
+.banner4 {
+	background-color: #545F66;
+	height: 100px;
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-top: -33px;
+    border-radius: 6px;
+}
+
+.banner4 h1 {
+	padding-top: 35px;
+	font-size: 25px;
+	color: #FBFBFB
+}

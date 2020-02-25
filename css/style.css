@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap");
+
+@import url("components/row.css");
+@import url("components/column.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+@import url("components/banner2.css");
+@import url("components/banner3.css");
+@import url("components/banner4.css");
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+
+
+body {
+ font-family: 'Lora', serif;
+ font-size: 18px; 
+ background-image: linear-gradient(-225deg,rgba(0,0,0,0.5) 0%, rgba(24, 48, 89, 0.25) 50%), url(../images/adidas7.jpg);
+ background-size: cover;
+ background-position: bottom;
+} 
+
+h1,h2,h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: #545F66;
+}
+
+a {
+	text-decoration: none;
+}

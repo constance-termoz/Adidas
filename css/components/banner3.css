@@ -1,0 +1,13 @@
+.banner3 {
+	background-color: #080705;
+	height: 100px;
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-top: -40px;
+    border-radius: 6px;
+}
+
+.banner3 h1 {
+	padding-top: 30px;
+	color: #FBFBFB
+}
